@@ -114,7 +114,9 @@ The repository is organized as follows:
 ```
 
 ## Demo
-[![Demo Video](https://github.com/chiemezie1/AiNewsAssist/blob/main/public/images/thumbnail.jpg?raw=true)](https://github.com/chiemezie1/AiNewsAssist/blob/main/public/videos/video-demo.mp4?raw=true)
+
+[![Demo Video](https://img.youtube.com/vi/L9ISEf9uu1Y/0.jpg)](https://www.youtube.com/watch?v=L9ISEf9uu1Y)
+
 
 *Click the image above to view a video demonstration of NewsAssist in action!*
 
