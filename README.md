@@ -28,7 +28,8 @@ NewsAssist is a cutting-edge news aggregation technology that delivers personali
 
 ## Why Choose NewsAssist?
 
-In an age of information overload, NewsAssist provides a customized news experience to help people sift through the noise. Its adjustable features enable users to concentrate on the subjects that are most important to them, improving their understanding of and participation in current affairs while, most importantly, saving time.
+In an age of information overload, NewsAssist provides a personalized news experience that allows users to cut through the noise. Its configurable features enable users to focus on the issues that are most important to them, ensuring they keep informed on topics that are relevant to their interests. Users can rapidly comprehend the main ideas of any news story thanks to AI-generated summaries, making it easier to stay up to date without spending too much time reading through the whole pieces. This enhances not only understanding and engagement with current events, but also saves you time.
+
 
 ## Requirements
 
