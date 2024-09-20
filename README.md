@@ -88,7 +88,7 @@ To run NewsAssist locally, follow these steps:
 
 ## Usage
 
-Once the application is running, users can sign up or log in to start customizing their news feed. They can select preferred categories, language, location and utilize AI summaries for quick news consumption.
+Once the application is running, on the home page users can see the option to sign up or log in, on loging in the user is directed to the dashboard. On the dashboard news are atomatically loaded, left sidebar are used to Customize your news consumption, below the right side of the screen you see an option to chat with gemini AI and ask questions. The main area show the news, on click you can view a ssumarizde content.   
 
 ## Folder Structure
 The repository is organized as follows:
