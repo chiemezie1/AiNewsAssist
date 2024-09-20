@@ -1,28 +1,8 @@
 <div align="center">
-
-<svg
-  xmlns="http://www.w3.org/2000/svg"
-  viewBox="0 0 24 24"
-  fill="none"
-  stroke="currentColor"
-  strokeWidth="2"
-  strokeLinecap="round"
-  strokeLinejoin="round"
-  style="width: 100px; height: 100px; color: #EAB308;"
->
-  <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z" />
-  <polyline points="14 2 14 8 20 8" />
-  <line x1="16" y1="13" x2="8" y2="13" />
-  <line x1="16" y1="17" x2="8" y2="17" />
-  <polyline points="10 9 9 9 8 9" />
-</svg>
-
 # <span style="color: #FFFFFF;">News</span><span style="color: #EAB308;">Assist</span>
-
 </div>
 
 ## Overview
-
 NewsAssist is a cutting-edge news aggregation technology that delivers personalized news updates based on customer preferences. It uses AI-driven technologies to ensure that consumers receive relevant, accurate, and easily digestible news material from a variety of trusted sources. The software collects information from articles and sends it to an AI for summary, allowing users to save time and stay informed efficiently.
 
 ## Table of Contents
@@ -109,7 +89,6 @@ To run NewsAssist locally, follow these steps:
 Once the application is running, users can sign up or log in to start customizing their news feed. They can select preferred categories, language, location and utilize AI summaries for quick news consumption.
 
 ## Folder Structure
-
 The repository is organized as follows:
 
 ```
@@ -120,7 +99,7 @@ The repository is organized as follows:
 │   └── vercel.svg
 ├── src
 │   ├── app
-│   │   ├── about
+│   │   ├── about    
 │   │   ├── api
 │   │   ├── auth
 │   │   ├── dashboard
@@ -135,28 +114,15 @@ The repository is organized as follows:
 ```
 
 ## Demo
-
 [![Demo Video](https://github.com/chiemezie1/AiNewsAssist/blob/main/public/images/thumbnail.jpg?raw=true)](https://github.com/chiemezie1/AiNewsAssist/blob/main/public/videos/video-demo.mp4?raw=true)
 
 *Click the image above to view a video demonstration of NewsAssist in action!*
 
 ## Contributing
-
 Contributions are welcome! If you have suggestions for improvements or new features, feel free to submit a pull request or open an issue.
 
 ## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License.
 
 ## Contact
-
 For any questions or feedback, please reach out to chiemezieagbo@gmail.com.
-
-<style>
-  body {
-    background: linear-gradient(to bottom right, #4B0082, #000080, #00008B);
-    color: #FFFFFF;
-    padding: 20px;
-    font-family: Arial, sans-serif;
-  }
-</style>
