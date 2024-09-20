@@ -28,17 +28,16 @@ NewsAssist is a cutting-edge news aggregation technology that delivers personali
 
 ## Why Choose NewsAssist?
 
-In an age of information overload, NewsAssist provides a personalized news experience that allows users to cut through the noise. Its configurable features enable users to focus on the issues that are most important to them, ensuring they keep informed on topics that are relevant to their interests. Users can rapidly comprehend the main ideas of any news story thanks to AI-generated summaries, making it easier to stay up to date without spending too much time reading through the whole pieces. This enhances not only understanding and engagement with current events, but also saves you time.
+In an age of information overload, NewsAssist provides a personalized news experience that allows users to cut through the noise. Its configurable features enable users to focus on the issues that are most important to them, ensuring they keep informed on topics that are relevant to their interests. Users can rapidly comprehend the main ideas of any news story thanks to AI-generated summaries, making it easier to stay up_to_date without spending too much time covering the whole News. This enhances not only understanding and engagement with current events, but also saves times.
 
 
 ## Requirements
-
-Before you begin, ensure you have the following installed:
+Ensure you have the following installed:
 
 - **Node.js** (version 14 or higher)
-- **npm** or **Yarn** (for managing dependencies)
-- **MongoDB** (for data storage)
-- **A Google account** (for API access)
+- **npm** or **Yarn** (managing dependencies)
+- **MongoDB** (data storage)
+- **A Google account** (API access)
 
 ## Installation
 
@@ -86,7 +85,7 @@ To run NewsAssist locally, follow these steps:
    Open your web browser and navigate to `http://localhost:3000`.
 
 ## Usage
-After starting the application, users can sign up or log in from the home page. Once logged in, users are brought to the dashboard, where news stories are automatically loaded based on their choices. The left sidebar allows users to personalize their news stream by selecting specific categories or sources. The main part shows the news, and readers can click on any story to see an AI-generated summary. In addition, a Gemini AI chatbot is available in the lower right corner of the dashboard, allowing users to ask questions and receive real-time insights or summaries. 
+On starting the application, users can sign up or log in from the home page. Once logged in, users are brought to the dashboard, where news stories are automatically loaded. The left sidebar allows users to personalize their news stream by selecting specific categories or sources. The main part shows the news, and readers can click on any story to read AI-generated summary. In addition, a Gemini AI chatbot is available in the lower right corner of the dashboard, allowing users to ask questions and receive real-time insights or summaries. 
 
 ## Demo
 
@@ -96,10 +95,10 @@ After starting the application, users can sign up or log in from the home page. 
 *Click to view a video demonstration!*
 
 ## Contributing
-Contributions are welcome! If you have suggestions for improvements or new features, feel free to submit a pull request or open an issue.
+Contributions are welcome! Feel free to submit a pull request or open an issue.
 
 ## License
 This project is licensed under the MIT License.
 
 ## Contact
-For any questions or feedback, please reach out to chiemezieagbo1@gmail.com.
+For questions or feedback: chiemezieagbo1@gmail.com.
