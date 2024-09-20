@@ -1,5 +1,7 @@
 <div align="center">
+
 # <span style="color: #FFFFFF;">News</span><span style="color: #EAB308;">Assist</span>
+
 </div>
 
 ## Overview
@@ -94,9 +96,7 @@ The repository is organized as follows:
 ```
 /
 ├── public
-│   ├── images
-│   ├── next.svg
-│   └── vercel.svg
+│   ├── images  
 ├── src
 │   ├── app
 │   │   ├── about    
