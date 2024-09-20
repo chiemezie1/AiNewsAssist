@@ -20,27 +20,25 @@ NewsAssist is a cutting-edge news aggregation technology that delivers personali
 
 ## Key Features
 
-- **Personalized News Feed**: Receive news based on your interests and preferences.
-- **AI-Powered Summaries**: Provides quick, accurate summaries of complex news articles, saving time.
+- **Personalized News Feed**: Receive News based on interests and preferences.
+- **AI-Powered Summaries**: Provides quick, accurate summaries of news articles, saving time.
 - **Integrated AI ChatBot**: Are you confused about what you're reading? With an AI chatbot on the news dashboard for immediate assistance.
-- **Multi-Source Integration**: Get news from multiple trustworthy sources in one spot.
-- **Customizable Experience**: Customize your news consumption experience to your preferences.
+- **Multi-Source Integration**: News are from multiple trustworthy sources.
+- **Customizable Experience**: Customize news consumption experience to your preferences.
 
 ## Why Choose NewsAssist?
-
-In an age of information overload, NewsAssist provides a personalized news experience that allows users to cut through the noise. Its configurable features enable users to focus on the issues that are most important to them, ensuring they keep informed on topics that are relevant to their interests. Users can rapidly comprehend the main ideas of any news story thanks to AI-generated summaries, making it easier to stay up_to_date without spending too much time covering the whole News. This enhances not only understanding and engagement with current events, but also saves times.
+In an age of information overload, NewsAssist provides a personalized news experience that allows users to cut through the noise. Its configurable features enable users to focus on the issues that are most important to them, ensuring they keep informed on topics that are relevant to their interests. Users can rapidly comprehend the main ideas of any news story thanks to AI-generated summaries, making it easier to stay up to date without spending too much time covering the whole News. This enhances not only understanding and engagement with current events, but also saves times.
 
 
 ## Requirements
 Ensure you have the following installed:
 
 - **Node.js** (version 14 or higher)
-- **npm** or **Yarn** (managing dependencies)
-- **MongoDB** (data storage)
-- **A Google account** (API access)
+- **npm** or **Yarn** (for managing dependencies)
+- **MongoDB** (for data storage)
+- **A Google account** (for API access)
 
 ## Installation
-
 To run NewsAssist locally, follow these steps:
 
 1. **Clone the Repository**:
@@ -93,9 +91,6 @@ On starting the application, users can sign up or log in from the home page. Onc
 
 
 *Click to view a video demonstration!*
-
-## Contributing
-Contributions are welcome! Feel free to submit a pull request or open an issue.
 
 ## License
 This project is licensed under the MIT License.
