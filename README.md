@@ -1,7 +1,5 @@
 <div align="center">
-
 # <span style="color: #FFFFFF;">News</span><span style="color: #EAB308;">Assist</span>
-
 </div>
 
 ## Overview
@@ -14,7 +12,6 @@ NewsAssist is a cutting-edge news aggregation technology that delivers personali
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Folder Structure](#folder-structure)
 - [Demo](#demo)
 - [Contributing](#contributing)
 - [License](#license)
@@ -87,38 +84,14 @@ To run NewsAssist locally, follow these steps:
    Open your web browser and navigate to `http://localhost:3000`.
 
 ## Usage
-
-Once the application is running, on the home page users can see the option to sign up or log in, on loging in the user is directed to the dashboard. On the dashboard news are atomatically loaded, left sidebar are used to Customize your news consumption, below the right side of the screen you see an option to chat with gemini AI and ask questions. The main area show the news, on click you can view a ssumarizde content.   
-
-## Folder Structure
-The repository is organized as follows:
-
-```
-/
-├── public
-│   ├── images  
-├── src
-│   ├── app
-│   │   ├── about    
-│   │   ├── api
-│   │   ├── auth
-│   │   ├── dashboard
-│   │   ├── favicon.ico
-│   │   ├── globals.css
-│   │   └── pricing
-│   ├── components
-│   ├── context
-│   └── lib
-├── tailwind.config.js
-└── yarn.lock
-```
+After starting the application, users can sign up or log in from the home page. Once logged in, users are brought to the dashboard, where news stories are automatically loaded based on their choices. The left sidebar allows users to personalize their news stream by selecting specific categories or sources. The main part shows the news, and readers can click on any story to see an AI-generated summary. In addition, a Gemini AI chatbot is available in the lower right corner of the dashboard, allowing users to ask questions and receive real-time insights or summaries. 
 
 ## Demo
 
 [![Demo Video](https://img.youtube.com/vi/L9ISEf9uu1Y/0.jpg)](https://www.youtube.com/watch?v=L9ISEf9uu1Y)
 
 
-*Click the image above to view a video demonstration of NewsAssist in action!*
+*Click to view a video demonstration!*
 
 ## Contributing
 Contributions are welcome! If you have suggestions for improvements or new features, feel free to submit a pull request or open an issue.
