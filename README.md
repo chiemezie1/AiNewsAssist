@@ -34,9 +34,9 @@ In an age of information overload, NewsAssist provides a personalized news exper
 Ensure you have the following installed:
 
 - **Node.js** (version 14 or higher)
-- **npm** or **Yarn** (for managing dependencies)
-- **MongoDB** (for data storage)
-- **A Google account** (for API access)
+- **npm** or **Yarn** (managing dependencies)
+- **MongoDB** (data storage)
+- **A Google account** (API access)
 
 ## Installation
 To run NewsAssist locally, follow these steps:
@@ -89,8 +89,9 @@ On starting the application, users can sign up or log in from the home page. Onc
 
 [![Demo Video](https://img.youtube.com/vi/L9ISEf9uu1Y/0.jpg)](https://www.youtube.com/watch?v=L9ISEf9uu1Y)
 
+*Click to view video demonstration!*
 
-*Click to view a video demonstration!*
+Check the application: [AI News Assist](https://ai-news-assist.vercel.app/)
 
 ## License
 This project is licensed under the MIT License.
