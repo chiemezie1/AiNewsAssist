@@ -1,5 +1,7 @@
 'use client';
 
+// pricing page, not functing yet
+
 import React from 'react'
 import { motion } from 'framer-motion'
 import { Check, X } from 'lucide-react'

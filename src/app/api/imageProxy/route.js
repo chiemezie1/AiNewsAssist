@@ -1,3 +1,5 @@
+//Helps in fatching News images
+
 import axios from 'axios';
 import { NextResponse } from 'next/server';
 

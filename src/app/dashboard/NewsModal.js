@@ -1,4 +1,7 @@
 'use client';
+
+// This file summarizes content using Google Generative AI
+
 import { useState, useEffect } from 'react';
 import Image from 'next/image';
 import { GoogleGenerativeAI } from '@google/generative-ai';

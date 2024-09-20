@@ -1,5 +1,7 @@
 'use client'
 
+// chatbot that connents with gemini
+
 import { useState, useEffect, useRef } from 'react'
 import { GoogleGenerativeAI } from '@google/generative-ai'
 

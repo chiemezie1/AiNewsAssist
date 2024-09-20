@@ -1,4 +1,6 @@
-import { useState } from 'react';
+//This help with Customizing your news consumption an language selection, 
+// Please Note that some option works only on paid API plan
+
 import { motion, AnimatePresence } from 'framer-motion';
 import { Filter, Home, Zap, Heart, Globe, Briefcase, Newspaper } from 'lucide-react';
 

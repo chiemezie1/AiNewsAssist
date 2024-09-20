@@ -1,4 +1,7 @@
 'use client';
+//Entry point for the dashboard,it makes an api request pass it to NewsFeedItem to render
+//it also imports and render the chatbot that chats with gemini, the sidebar to costomerzation, 
+// NewsModal that makes an api request and summarizes content using Google Generative AI
 
 import { useSession } from 'next-auth/react';
 import { useRouter } from 'next/navigation';

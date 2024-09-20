@@ -125,4 +125,4 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 This project is licensed under the MIT License.
 
 ## Contact
-For any questions or feedback, please reach out to chiemezieagbo@gmail.com.
+For any questions or feedback, please reach out to chiemezieagbo1@gmail.com.

@@ -1,3 +1,6 @@
+// since most api does not return the full content 
+// This file helps to scrape the new from a given site url
+
 import axios from 'axios';
 import { JSDOM } from 'jsdom';
 import { Readability } from '@mozilla/readability';

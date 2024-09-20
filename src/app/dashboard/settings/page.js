@@ -1,4 +1,5 @@
 "use client"
+// Setting page, not working yet
 
 import { useState, useEffect } from 'react'
 import { motion } from 'framer-motion'
@@ -61,9 +62,8 @@ export default function Settings() {
   }
 
   const saveChanges = () => {
-    // Simulating API call to save changes
     console.log('Saving changes', { profileImage, selectedCategories, selectedSources })
-    // Add your save logic here
+    // Add save logic here
   }
 
   return (
